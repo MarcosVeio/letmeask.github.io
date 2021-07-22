@@ -14,17 +14,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como utilizar
 
+Acesse o link:
+
 ```bash
-Acesso o link: https://letmeask-b8f02.web.app/
+https://letmeask-b8f02.web.app/
 ```
 
 Para usá-lo, siga os passos abaixo:
-```bash
-1- Crie uma sala
-2- Compartilhe a sala com alguém copiando o código que ficará no canto superior direito da sua tela
-3- Espere a pessoa fizer alguma pergunta
-4- Você verá a pergunta na sua tela de Admin...
-```
+
+1- Crie uma sala<br>
+2- Compartilhe a sala com alguém copiando o código que ficará no canto superior direito da sua tela<br>
+3- Espere a pessoa fizer alguma pergunta<br>
+4- Você verá a pergunta na sua tela de Admin...<br>
+
 
 ## 💻 Projeto
 
